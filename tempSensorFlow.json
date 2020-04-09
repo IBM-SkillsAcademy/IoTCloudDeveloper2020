@@ -1,1 +1,3 @@
 [{"id":"5ffb150e.f1aeac","type":"watson-text-to-speech","z":"6b5d2478.33622c","name":"","lang":"en-US","langhidden":"en-US","langcustom":"NoCustomisationSetting","langcustomhidden":"","voice":"en-US_LisaV2Voice","voicehidden":"","format":"audio/wav","password":"","apikey":"","payload-response":false,"service-endpoint":"","x":520,"y":260,"wires":[["55f6e580.a5cecc"]]}]
+
+
